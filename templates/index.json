@@ -9,20 +9,68 @@
  */
 {
   "sections": {
-    "video_BPEbaG": {
-      "type": "video",
+    "image_slider_8EEahg": {
+      "type": "image-slider",
+      "blocks": {
+        "video_slide_rcUwWE": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/1103.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": false,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_rcUwWE"
+      ],
       "settings": {
         "display_id": false,
         "visibility": "always-display",
         "title": "",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
-        "video_url": "",
-        "description": "",
-        "full_width": true,
         "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 1,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "mobile_full_page": true,
+        "mobile_border_radius": 0,
+        "slides_mobile": 1,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
         "padding_top": 0,
-        "padding_bottom": 36,
+        "padding_bottom": 0,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
@@ -286,7 +334,7 @@
     }
   },
   "order": [
-    "video_BPEbaG",
+    "image_slider_8EEahg",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
