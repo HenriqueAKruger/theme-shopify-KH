@@ -39,7 +39,7 @@
     "repeat_section_animations": false,
     "badge_position": "bottom left",
     "badge_corner_radius": 0,
-    "sale_badge_color_scheme": "accent-2",
+    "sale_badge_color_scheme": "accent-1",
     "sale_badge_text": "SAVE [percentage]",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "accent-1",
