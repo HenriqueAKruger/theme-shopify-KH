@@ -77,29 +77,9 @@
         "padding_top": 50,
         "padding_bottom": 50
       }
-    },
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
-      "type": "contact-form",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Contact form",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "button_full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff"
-      }
     }
   },
   "order": [
-    "slideshow_hero_drrdyY",
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9"
+    "slideshow_hero_drrdyY"
   ]
 }
