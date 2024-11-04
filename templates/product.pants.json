@@ -1,0 +1,732 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "trustpilot_stars_98wqMg": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 4.9,
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "<strong>4.7</strong> based on <strong>2.540+</strong> Reviews",
+            "size": 14,
+            "alignment": "center",
+            "scroll_id": "#shopify-section-template--23666334400811__trustpilot_reviews_bNWKzy",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": "h1",
+            "title_alignment": "center",
+            "uppercase_title": false,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "layout": "price_second",
+            "price_color": "accent-1",
+            "compare_price_color": "text",
+            "hide_sale_badge": false,
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "sizing_chart_Vw9LKW": {
+          "type": "sizing_chart",
+          "settings": {
+            "test_mode": false,
+            "append": "option_2_under_container",
+            "button_label": "Size Guide",
+            "button_icon": "straighten",
+            "button_filled_icon": false,
+            "text_size": 17,
+            "button_alignment": "start",
+            "button_underline": true,
+            "headline": "Old Money Suede Loafers Size Guide",
+            "heading_size": "h3",
+            "close_button_style": "minimalistic",
+            "color_scheme": "background-1",
+            "table_header_content": "Size EU, Size UK, Foot Length",
+            "table_header_color_scheme": "accent-1",
+            "table_content": "<p>39, 6, 25.5cm / 10 Inches</p><p>40, 7, 26cm / 10.2 Inches</p><p>41, 8, 27cm / 10.6 Inches</p><p>42, 10, 27.5cm / 10.8 Inches</p><p>43, 11, 28cm / 11 Inches</p><p>44, 12, 29cm / 11.4 Inches</p><p>45, 13, 29.5cm / 11.6 Inches</p><p>46, 14, 30cm / 11.8 Inches</p><p>47, 15, 31cm / 12.2 Inches</p><p>48, 16, 32cm / 12.6 Inches</p>",
+            "caption_text": "<p>Our Shoes & Loafers are true to size. Keep in mind that loafers don't have laces, <strong>so they are made thighter than normal shoes </strong>We recommend<strong> going up 0.5 size if you normally have half sizes</strong> for a better fit.</p><p>To find your perfect size, please check the<strong> foot length in CM / INCHES provided</strong>. These are 100% accurate with the shoe.</p>",
+            "caption_size": "1.45rem",
+            "caption_color": "#121212",
+            "caption_alignment": "left",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_types": "swatches, dropdown",
+            "custom_labels": "[name] - [selected]",
+            "swatches_size": "large",
+            "swatches_border_radius": 0,
+            "swatches_custom_colors": "disabled",
+            "swatches_custom_colors_list": "#000000, #6D388B, #0000FF, #FFCC00",
+            "full_width_dropdowns": false,
+            "breaks_style": "normal",
+            "breaks_headline": "BUNDLE & SAVE",
+            "breaks_color_scheme": "accent-1",
+            "breaks_badges": "[empty], Most popular, [empty]",
+            "breaks_displayed_images": "variant_images",
+            "breaks_custom_images": "",
+            "breaks_image_width": 70,
+            "breaks_space_images": true,
+            "breaks_labels": "[name], [name], [name]",
+            "breaks_benefits": "[empty], Free Shipping, Free Shipping",
+            "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
+            "breaks_price_texts": "[price], [price], [price]",
+            "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
+          "type": "quantity_selector",
+          "settings": {
+            "full_width_classic": true,
+            "enable_quantity_discounts": false,
+            "style": "normal",
+            "headline": "BUNDLE & SAVE",
+            "preselected": "option_1",
+            "update_prices": false,
+            "enable_variant_selectors": true,
+            "enable_variant_selectors_on_quantity_of_1": false,
+            "hide_pickers_overlay": true,
+            "pickers_label": "",
+            "image_width": 70,
+            "space_images": true,
+            "color_scheme": "accent-1",
+            "option_1_quantity": 1,
+            "option_1_badge": "",
+            "option_1_label": "Buy [quantity]",
+            "option_1_benefit": "",
+            "option_1_caption": "You save [amount_saved]",
+            "option_1_percentage_off_text": "0",
+            "option_1_fixed_amount_off": "0",
+            "option_1_price_text": "[price]",
+            "option_1_compare_price": "compare_price",
+            "option_1_compare_price_text": "[compare_price]",
+            "option_2_quantity": 2,
+            "option_2_badge": "",
+            "option_2_label": "Buy [quantity]",
+            "option_2_benefit": "",
+            "option_2_caption": "You save [amount_saved]",
+            "option_2_percentage_off_text": "0",
+            "option_2_fixed_amount_off": "0",
+            "option_2_price_text": "[price]",
+            "option_2_compare_price": "compare_price",
+            "option_2_compare_price_text": "[compare_price]",
+            "option_3_quantity": 3,
+            "option_3_badge": "",
+            "option_3_label": "Buy [quantity]",
+            "option_3_benefit": "",
+            "option_3_caption": "You save [amount_saved]",
+            "option_3_percentage_off_text": "0",
+            "option_3_fixed_amount_off": "0",
+            "option_3_price_text": "[price]",
+            "option_3_compare_price": "compare_price",
+            "option_3_compare_price_text": "[compare_price]",
+            "option_4_quantity": 4,
+            "option_4_badge": "",
+            "option_4_label": "Buy [quantity]",
+            "option_4_benefit": "",
+            "option_4_caption": "You save [amount_saved]",
+            "option_4_percentage_off_text": "0",
+            "option_4_fixed_amount_off": "0",
+            "option_4_price_text": "[price]",
+            "option_4_compare_price": "compare_price",
+            "option_4_compare_price_text": "[compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "urgency_KQXAQd": {
+          "type": "urgency",
+          "settings": {
+            "urgency": "Buy 2 Get Any Other FREE",
+            "color_scheme": "accent-1",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": false,
+            "uppercase_text": true,
+            "icon_scale": 120,
+            "icon_spacing": 10,
+            "display_price": false,
+            "enable_custom_color": false,
+            "custom_color": "#53af01",
+            "enable_secondary_btn": false,
+            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_enable_custom_color": false,
+            "secondary_btn_custom_color": "#dd1d1d",
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
+          "type": "sticky_atc",
+          "settings": {
+            "function": "add_to_cart",
+            "display_when": "after_scroll",
+            "button_label": "Add to cart",
+            "enable_custom_btn_color": false,
+            "custom_btn_color": "#dd1d1d",
+            "color_scheme": "background-1",
+            "star_color": "#ffcc00",
+            "stars_label": "(xxxx Reviews)",
+            "picker_type": "combined",
+            "desktop_show_image": true,
+            "desktop_show_title": true,
+            "desktop_rating_stars": false,
+            "desktop_show_price": true,
+            "desktop_show_sale_badge": true,
+            "desktop_variant_picker": true,
+            "desktop_full_button_width": false,
+            "desktop_show_price_in_button": false,
+            "desktop_transparent_bg": false,
+            "mobile_show_image": false,
+            "mobile_show_title": true,
+            "mobile_rating_stars": false,
+            "mobile_show_price": true,
+            "mobile_show_sale_badge": false,
+            "mobile_variant_picker": false,
+            "mobile_full_button_width": false,
+            "mobile_show_price_in_button": false,
+            "mobile_transparent_bg": false
+          }
+        },
+        "estimated_shipping_HNzHg3": {
+          "type": "estimated_shipping",
+          "settings": {
+            "icon": "local_shipping",
+            "filled_icon": false,
+            "icon_size": "medium",
+            "icon_alignment": "middle",
+            "message": "<p>Ships by <strong>[start_date]</strong></p>",
+            "min_shipping_days": 2,
+            "max_shipping_days": 15,
+            "date_format": "day_dd_mm",
+            "days_labels": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+            "months_labels": "January, February, March, April, May, June, July, August, September, October, November, December",
+            "margin_top": 12,
+            "margin_bottom": 15
+          }
+        },
+        "payment_badges_pxcQyy": {
+          "type": "payment_badges",
+          "settings": {
+            "enabled_payment_types": "",
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "complementary_qY8chE": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Customers also bought",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "dots",
+            "image_ratio": "portrait",
+            "enable_quick_add": true,
+            "margin_top": 18,
+            "margin_bottom": 15
+          }
+        },
+        "collapsible_tab_BGUQTg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "heading_size": "large",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": true,
+            "content": "<p>[description]</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_Jc8Bk6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "heading_size": "large",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>All orders will be shipped within <strong>1-3 business days</strong>, with delivery available <strong>exclusively throughout Europe</strong>. Our focus is on serving our European customers, ensuring dedicated and efficient service.</p><p>Not satisfied with your purchase? You can <strong>return your items</strong> within <strong>14 days</strong>, <strong>no questions asked</strong>.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_bGcAWt": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Sizing",
+            "heading_size": "large",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Our Shoes & Loafers are true to size but may run slightly small. Loafers fit tighter since they lack laces. If unsure about your size, we recommend going one size up for loafers for the perfect fit. For half sizes, consider going up by 0.5 for better comfort.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_PxLdbD": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Guide",
+            "heading_size": "large",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>We strongly recommend <strong>hand-washing </strong>all our products, when using machine wash make sure to use choose hand-wash to prevent shrinking / damaging of our premium materials.<br/><br/><strong>Air drying only.</strong></p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "trustpilot_stars_98wqMg",
+        "title",
+        "price",
+        "sizing_chart_Vw9LKW",
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
+        "urgency_KQXAQd",
+        "buy_buttons",
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
+        "estimated_shipping_HNzHg3",
+        "payment_badges_pxcQyy",
+        "complementary_qY8chE",
+        "collapsible_tab_BGUQTg",
+        "collapsible_tab_Jc8Bk6",
+        "collapsible_tab_bGcAWt",
+        "collapsible_tab_PxLdbD"
+      ],
+      "custom_css": [
+        ".product-form__label-container {justify-content: center;}",
+        ".color-swatches-container {justify-content: center;}",
+        ".product-form__input .select {max-width: 100rem;}",
+        ".quantity__label {text-align: center;}",
+        ".product__media-wrapper {margin-bottom: 10px;}",
+        ".estimated-shipping {justify-content: center;}",
+        ".complementary-products__container h2 {font-size: 25px;}",
+        ".product-form__input {max-width: 100rem;}"
+      ],
+      "settings": {
+        "display_id": false,
+        "enable_sticky_info": true,
+        "display_variant_image_first": false,
+        "disable_prepend": true,
+        "hide_variants": false,
+        "variant_image_filtering": "none",
+        "image_zoom": "none",
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "video_player": "play_btn",
+        "enable_video_looping": false,
+        "autoplay_videos_pause_btn": false,
+        "video_sound_btn": false,
+        "video_timeline": false,
+        "play_btn_color_scheme": "accent-1",
+        "sound_btn_color_scheme": "inverse",
+        "timeline_color": "accent-1",
+        "media_size": "medium",
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "desktop_thumbnails_count": 5,
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "desktop_arrows_position": "hidden",
+        "mobile_media_corner_radius": 0,
+        "mobile_spacing_pixels": 0,
+        "mobile_arrows_position": "hidden",
+        "mobile_pagination": "hidden",
+        "mobile_thumbnails": "show",
+        "mobile_thumbnails_count": 5,
+        "mobile_scroll_padding_percentage": 0,
+        "mobile_scroll_padding_pixels": 0,
+        "enable_mobile_outher_spacing": false,
+        "mobile_slides_container_width": 100,
+        "mobile_slides_inner_width": 95,
+        "trust_badge_position": "top-right",
+        "trust_badge_size": "medium",
+        "mobile_padding_top": 4,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36
+      }
+    },
+    "rich_text_n8nFDM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jXYiaJ": {
+          "type": "heading",
+          "settings": {
+            "title": "THE GIOVANNI CAPRI`S COMMUNITY",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        },
+        "text_6cqzbV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With over <strong>50.000+</strong> <strong>Europe customers</strong>, the old money community is bigger than ever before.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jXYiaJ",
+        "text_6cqzbV"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 28,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_slider_CzwbDJ": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_Lq8Lgi": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/1_4_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_iKgiTH": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/2_5_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_imcJeA": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/4_7_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_jmWVGT": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/5_8_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_CFaKDm": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/6_1_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_nRrcfE": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/8_3_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_qQ4def": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/7_2_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_Lq8Lgi",
+        "image_slide_iKgiTH",
+        "image_slide_imcJeA",
+        "image_slide_jmWVGT",
+        "image_slide_CFaKDm",
+        "image_slide_nRrcfE",
+        "image_slide_qQ4def"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "loop",
+        "drag": "free",
+        "autoplay": true,
+        "autoplay_speed": 2,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "trustpilot_reviews_bNWKzy": {
+      "type": "trustpilot-reviews",
+      "blocks": {
+        "column_eQdCmV": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Perfect for that Old Money look!",
+            "text": "<p>\"These loafers are exactly what I was looking for to achieve a sophisticated look without spending a fortune! The quality of the suede is exceptional, and after a few wears, they fit perfectly. They truly have a classic and refined touch. Highly recommend for anyone who wants to dress well and with class.\"</p>",
+            "author": "<strong>Henrik L.</strong>"
+          }
+        },
+        "column_d3c9mG": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Surprised by the fast delivery!",
+            "text": "<p>\"Living in Milan, I was pleasantly surprised by how quickly my order arrived. Within a few days, I had my loafers, and the quality did not disappoint. Shipping was smooth, and I felt like I was ordering from a local European brand. Excellent experience overall!\"</p>",
+            "author": "<strong>Luca B.</strong>"
+          }
+        },
+        "column_KDGj73": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Incredibly comfortable, even without laces!",
+            "text": "<p>\"I was hesitant about the slip-on design at first, thinking they might be uncomfortable without laces, but they fit perfectly snug. After just a couple of wears, they softened and adjusted to my feet. The added insole support is a fantastic feature—definitely not common in most loafers!\"</p>",
+            "author": "<strong>Oscar H.</strong>"
+          }
+        },
+        "column_F6eqdF": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Quality you can actually feel!",
+            "text": "<p>\"The moment I opened the box, I could tell these loafers were made with attention to detail. The suede feels rich and durable, and the stitching is flawless. They look and feel luxurious without the crazy price tag. Giovanni Capri did not disappoint!\"</p>",
+            "author": "<strong>Alessandro P.</strong>"
+          }
+        },
+        "column_QifPN3": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "High-end feel at a fair price!",
+            "text": "<p>\"I usually hesitate to buy shoes online, especially for a fair price, but these loafers exceeded my expectations. They look and feel just as premium as designer brands. I love that Giovanni Capri negotiates fabric prices to keep costs down without sacrificing quality. Highly recommend!\"</p>",
+            "author": "<strong>Magnus S.</strong>"
+          }
+        },
+        "column_XrNK7H": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "True to size and fits perfectly!",
+            "text": "<p>\"Finding loafers that fit perfectly can be tough, but these were spot on. I wear a size 43, and they were true to size. They were a little snug at first, but as promised, they molded to my feet after a couple of wears. Now, they’re my go-to shoes for any occasion!\"</p>",
+            "author": "<strong>Thomas L.</strong>"
+          }
+        }
+      },
+      "block_order": [
+        "column_eQdCmV",
+        "column_d3c9mG",
+        "column_KDGj73",
+        "column_F6eqdF",
+        "column_QifPN3",
+        "column_XrNK7H"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "desktop_content_position": "above",
+        "desktop_content_alignment": "center",
+        "title": "Trustpilot reviews",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "subtitle": "Excellent [rating] <strong>/ 5</strong> [rating_stars]",
+        "subheading_rating_text": "<strong>4.7</strong>",
+        "subheading_mobile_text_size": 18,
+        "subheading_desktop_text_size": 20,
+        "subheading_font": "body",
+        "star_color": "#005f56",
+        "bg_star_color": "#c8c8c8",
+        "star_symbol_color": "#ffffff",
+        "stars_rating": 4.5,
+        "text": "",
+        "cards_border_radius": 0,
+        "card_alignment": "center",
+        "show_stars": true,
+        "cards_color_scheme": "background-2",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 24,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "title": "You may also like",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_n8nFDM",
+    "image_slider_CzwbDJ",
+    "trustpilot_reviews_bNWKzy",
+    "related-products"
+  ]
+}
