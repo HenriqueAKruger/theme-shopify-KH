@@ -257,7 +257,7 @@
             "pagination_style": "dots",
             "image_ratio": "portrait",
             "enable_quick_add": true,
-            "margin_top": 15,
+            "margin_top": 18,
             "margin_bottom": 15
           }
         },
@@ -572,14 +572,79 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#fff",
             "stars_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Perfect for that Old Money look!",
+            "text": "<p>\"These loafers are exactly what I was looking for to achieve a sophisticated look without spending a fortune! The quality of the suede is exceptional, and after a few wears, they fit perfectly. They truly have a classic and refined touch. Highly recommend for anyone who wants to dress well and with class.\"</p>",
+            "author": "<strong>Henrik L.</strong>"
+          }
+        },
+        "column_d3c9mG": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Surprised by the fast delivery!",
+            "text": "<p>\"Living in Milan, I was pleasantly surprised by how quickly my order arrived. Within a few days, I had my loafers, and the quality did not disappoint. Shipping was smooth, and I felt like I was ordering from a local European brand. Excellent experience overall!\"</p>",
+            "author": "<strong>Luca B.</strong>"
+          }
+        },
+        "column_KDGj73": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Incredibly comfortable, even without laces!",
+            "text": "<p>\"I was hesitant about the slip-on design at first, thinking they might be uncomfortable without laces, but they fit perfectly snug. After just a couple of wears, they softened and adjusted to my feet. The added insole support is a fantastic feature—definitely not common in most loafers!\"</p>",
+            "author": "<strong>Oscar H.</strong>"
+          }
+        },
+        "column_F6eqdF": {
+          "type": "column",
+          "settings": {
+            "star_color": "#005f56",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "Quality you can actually feel!",
+            "text": "<p>\"The moment I opened the box, I could tell these loafers were made with attention to detail. The suede feels rich and durable, and the stitching is flawless. They look and feel luxurious without the crazy price tag. Giovanni Capri did not disappoint!\"</p>",
+            "author": "<strong>Alessandro P.</strong>"
+          }
+        },
+        "column_QifPN3": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "High-end feel at a fair price!",
+            "text": "<p>\"I usually hesitate to buy shoes online, especially for a fair price, but these loafers exceeded my expectations. They look and feel just as premium as designer brands. I love that Giovanni Capri negotiates fabric prices to keep costs down without sacrificing quality. Highly recommend!\"</p>",
+            "author": "<strong>Magnus S.</strong>"
+          }
+        },
+        "column_XrNK7H": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#fff",
+            "stars_rating": 5,
+            "title": "True to size and fits perfectly!",
+            "text": "<p>\"Finding loafers that fit perfectly can be tough, but these were spot on. I wear a size 43, and they were true to size. They were a little snug at first, but as promised, they molded to my feet after a couple of wears. Now, they’re my go-to shoes for any occasion!\"</p>",
+            "author": "<strong>Thomas L.</strong>"
           }
         }
       },
       "block_order": [
-        "column_eQdCmV"
+        "column_eQdCmV",
+        "column_d3c9mG",
+        "column_KDGj73",
+        "column_F6eqdF",
+        "column_QifPN3",
+        "column_XrNK7H"
       ],
       "settings": {
         "display_id": false,
