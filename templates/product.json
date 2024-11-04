@@ -161,6 +161,15 @@
             "margin_bottom": 15
           }
         },
+        "urgency_KQXAQd": {
+          "type": "urgency",
+          "settings": {
+            "urgency": "Buy 2 Get Any Other FREE",
+            "color_scheme": "accent-1",
+            "margin_top": 15,
+            "margin_bottom": 6
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -176,7 +185,7 @@
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
-            "margin_top": 24,
+            "margin_top": 0,
             "margin_bottom": 24
           }
         },
@@ -243,6 +252,7 @@
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "sizing_chart_Vw9LKW",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
+        "urgency_KQXAQd",
         "buy_buttons",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
