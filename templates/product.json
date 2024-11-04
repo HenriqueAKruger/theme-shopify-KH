@@ -86,13 +86,13 @@
             "text_size": 17,
             "button_alignment": "start",
             "button_underline": true,
-            "headline": "Sizing Chart",
+            "headline": "Old Money Suede Loafers Size Guide",
             "heading_size": "h3",
             "close_button_style": "minimalistic",
-            "color_scheme": "background-1",
-            "table_header_content": "Size, Chest, Length, Shoulder",
+            "color_scheme": "accent-1",
+            "table_header_content": "Size EU, Size UK, Foot Length",
             "table_header_color_scheme": "inverse",
-            "table_content": "<p>S, 95cm, 61cm, 44cm</p><p>M, 102cm, 66cm, 46cm</p><p>L, 106cm, 71cm, 48cm</p><p>XL, 111cm, 74cm, 51cm</p>",
+            "table_content": "<p>39, 6, 25.5cm / 10 Inches</p><p>40, 7, 25.5cm / 10 Inches</p><p>41, 8, 25.5cm / 10 Inches</p><p>41, 9, 25.5cm / 10 Inches</p><p>42, 10, 25.5cm / 10 Inches</p><p>43, 11, 25.5cm / 10 Inches</p><p>44, 12, 25.5cm / 10 Inches</p><p>45, 13, 25.5cm / 10 Inches</p><p>46, 14, 25.5cm / 10 Inches</p><p>47, 15, 25.5cm / 10 Inches</p><p>48, 16, 25.5cm / 10 Inches</p>",
             "caption_text": "<p>Give your customers further information about choosing the correct size.</p>",
             "caption_size": "1.45rem",
             "caption_color": "#121212",
@@ -405,7 +405,7 @@
           "type": "heading",
           "settings": {
             "title": "THE GIOVANNI CAPRI`S COMMUNITY",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h2"
           }
         },
@@ -429,9 +429,9 @@
         "color_scheme": "background-1",
         "padding_top": 24,
         "padding_bottom": 28,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -524,7 +524,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "type": "loop",
@@ -557,7 +557,7 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 0,
         "padding_bottom": 20,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
       }
@@ -570,7 +570,7 @@
           "settings": {
             "star_color": "#005f56",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "Perfect for that Old Money look!",
             "text": "<p>\"These loafers are exactly what I was looking for to achieve a sophisticated look without spending a fortune! The quality of the suede is exceptional, and after a few wears, they fit perfectly. They truly have a classic and refined touch. Highly recommend for anyone who wants to dress well and with class.\"</p>",
@@ -582,7 +582,7 @@
           "settings": {
             "star_color": "#005f56",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "Surprised by the fast delivery!",
             "text": "<p>\"Living in Milan, I was pleasantly surprised by how quickly my order arrived. Within a few days, I had my loafers, and the quality did not disappoint. Shipping was smooth, and I felt like I was ordering from a local European brand. Excellent experience overall!\"</p>",
@@ -594,7 +594,7 @@
           "settings": {
             "star_color": "#005f56",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "Incredibly comfortable, even without laces!",
             "text": "<p>\"I was hesitant about the slip-on design at first, thinking they might be uncomfortable without laces, but they fit perfectly snug. After just a couple of wears, they softened and adjusted to my feet. The added insole support is a fantastic feature—definitely not common in most loafers!\"</p>",
@@ -606,7 +606,7 @@
           "settings": {
             "star_color": "#005f56",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "Quality you can actually feel!",
             "text": "<p>\"The moment I opened the box, I could tell these loafers were made with attention to detail. The suede feels rich and durable, and the stitching is flawless. They look and feel luxurious without the crazy price tag. Giovanni Capri did not disappoint!\"</p>",
@@ -618,7 +618,7 @@
           "settings": {
             "star_color": "#005f56",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "High-end feel at a fair price!",
             "text": "<p>\"I usually hesitate to buy shoes online, especially for a fair price, but these loafers exceeded my expectations. They look and feel just as premium as designer brands. I love that Giovanni Capri negotiates fabric prices to keep costs down without sacrificing quality. Highly recommend!\"</p>",
@@ -630,7 +630,7 @@
           "settings": {
             "star_color": "#005f56",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "True to size and fits perfectly!",
             "text": "<p>\"Finding loafers that fit perfectly can be tough, but these were spot on. I wear a size 43, and they were true to size. They were a little snug at first, but as promised, they molded to my feet after a couple of wears. Now, they’re my go-to shoes for any occasion!\"</p>",
@@ -653,7 +653,7 @@
         "desktop_content_position": "above",
         "desktop_content_alignment": "center",
         "title": "Trustpilot reviews",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "subtitle": "Excellent [rating] <strong>/ 5</strong> [rating_stars]",
         "subheading_rating_text": "<strong>4.7</strong>",
@@ -662,7 +662,7 @@
         "subheading_font": "body",
         "star_color": "#005f56",
         "bg_star_color": "#c8c8c8",
-        "star_symbol_color": "#fff",
+        "star_symbol_color": "#ffffff",
         "stars_rating": 4.5,
         "text": "",
         "cards_border_radius": 0,
@@ -692,12 +692,12 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "related-products": {
