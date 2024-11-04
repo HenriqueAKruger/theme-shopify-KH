@@ -115,10 +115,176 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
+    },
+    "rich_text_xp4YYX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3xmLnD": {
+          "type": "heading",
+          "settings": {
+            "title": "THE GIOVANNI CAPRI`S COMMUNITY",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2"
+          }
+        },
+        "text_FB7XcJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With over<strong>50.000+Europe customers</strong>, the old money community is bigger than ever before.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3xmLnD",
+        "text_FB7XcJ"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 24,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_slider_YEptqm": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_9V64ER": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/1_4_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_jzaeQQ": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/2_5_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_exh7gj": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/4_7_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_ikgVqD": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/5_8_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_bBRBPV": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/6_1_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_znV8WJ": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/8_3_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_VkUXby": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/7_2_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_9V64ER",
+        "image_slide_jzaeQQ",
+        "image_slide_exh7gj",
+        "image_slide_ikgVqD",
+        "image_slide_bBRBPV",
+        "image_slide_znV8WJ",
+        "image_slide_VkUXby"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "loop",
+        "drag": "free",
+        "autoplay": true,
+        "autoplay_speed": 2,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
     }
   },
   "order": [
     "slideshow_hero_drrdyY",
-    "featured_collection_AEDyig"
+    "featured_collection_AEDyig",
+    "rich_text_xp4YYX",
+    "image_slider_YEptqm"
   ]
 }
