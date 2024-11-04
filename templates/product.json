@@ -91,7 +91,7 @@
             "close_button_style": "minimalistic",
             "color_scheme": "background-1",
             "table_header_content": "Size EU, Size UK, Foot Length",
-            "table_header_color_scheme": "inverse",
+            "table_header_color_scheme": "accent-1",
             "table_content": "<p>39, 6, 25.5cm / 10 Inches</p><p>40, 7, 26cm / 10.2 Inches</p><p>41, 8, 27cm / 10.6 Inches</p><p>42, 10, 27.5cm / 10.8 Inches</p><p>43, 11, 28cm / 11 Inches</p><p>44, 12, 29cm / 11.4 Inches</p><p>45, 13, 29.5cm / 11.6 Inches</p><p>46, 14, 30cm / 11.8 Inches</p><p>47, 15, 31cm / 12.2 Inches</p><p>48, 16, 32cm / 12.6 Inches</p>",
             "caption_text": "<p>Our Shoes & Loafers are true to size. Keep in mind that loafers don't have laces, <strong>so they are made thighter than normal shoes </strong>We recommend<strong> going up 0.5 size if you normally have half sizes</strong> for a better fit.</p><p>To find your perfect size, please check the<strong> foot length in CM / INCHES provided</strong>. These are 100% accurate with the shoe.</p>",
             "caption_size": "1.45rem",
