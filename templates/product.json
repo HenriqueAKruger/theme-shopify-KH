@@ -265,13 +265,61 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description",
-            "heading_size": "medium",
+            "heading_size": "large",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": true,
             "content": "<p>[description]</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_Jc8Bk6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "heading_size": "large",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>All orders will be shipped within <strong>1-3 business days</strong>, with delivery available <strong>exclusively throughout Europe</strong>. Our focus is on serving our European customers, ensuring dedicated and efficient service.</p><p>Not satisfied with your purchase? You can <strong>return your items</strong> within <strong>14 days</strong>, <strong>no questions asked</strong>.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_bGcAWt": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Sizing",
+            "heading_size": "large",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Our Shoes & Loafers are true to size but may run slightly small. Loafers fit tighter since they lack laces. If unsure about your size, we recommend going one size up for loafers for the perfect fit. For half sizes, consider going up by 0.5 for better comfort.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_PxLdbD": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Guide",
+            "heading_size": "large",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>We strongly recommend <strong>hand-washing </strong>all our products, when using machine wash make sure to use choose hand-wash to prevent shrinking / damaging of our premium materials.<br/><br/><strong>Air drying only.</strong></p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -291,7 +339,10 @@
         "estimated_shipping_HNzHg3",
         "payment_badges_pxcQyy",
         "complementary_qY8chE",
-        "collapsible_tab_BGUQTg"
+        "collapsible_tab_BGUQTg",
+        "collapsible_tab_Jc8Bk6",
+        "collapsible_tab_bGcAWt",
+        "collapsible_tab_PxLdbD"
       ],
       "custom_css": [
         ".product-form__label-container {justify-content: center;}",
