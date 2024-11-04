@@ -224,7 +224,8 @@
       "custom_css": [
         ".product-form__label-container {justify-content: center;}",
         ".color-swatches-container {justify-content: center;}",
-        ".product-form__input .select {max-width: 100rem;}"
+        ".product-form__input .select {max-width: 100rem;}",
+        ".quantity__label {text-align: center;}"
       ],
       "settings": {
         "display_id": false,
