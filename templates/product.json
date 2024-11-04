@@ -260,6 +260,22 @@
             "margin_top": 15,
             "margin_bottom": 15
           }
+        },
+        "collapsible_tab_BGUQTg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": true,
+            "content": "<p>[description]</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
         }
       },
       "block_order": [
@@ -274,7 +290,8 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "estimated_shipping_HNzHg3",
         "payment_badges_pxcQyy",
-        "complementary_qY8chE"
+        "complementary_qY8chE",
+        "collapsible_tab_BGUQTg"
       ],
       "custom_css": [
         ".product-form__label-container {justify-content: center;}",
