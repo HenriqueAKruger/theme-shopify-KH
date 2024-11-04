@@ -235,7 +235,15 @@
             "days_labels": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
             "months_labels": "January, February, March, April, May, June, July, August, September, October, November, December",
             "margin_top": 12,
-            "margin_bottom": 24
+            "margin_bottom": 15
+          }
+        },
+        "payment_badges_pxcQyy": {
+          "type": "payment_badges",
+          "settings": {
+            "enabled_payment_types": "",
+            "margin_top": 0,
+            "margin_bottom": 0
           }
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
@@ -266,6 +274,7 @@
         "buy_buttons",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "estimated_shipping_HNzHg3",
+        "payment_badges_pxcQyy",
         "de158e68-5d0d-4819-a625-e2dabdff87d1"
       ],
       "custom_css": [
