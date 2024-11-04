@@ -11,3 +11,12 @@ html {scroll-behavior: smooth;}img, video {max-width: 100%;height: auto;vertical
 .price {
   justify-content: center;
 }
+
+.quantity__label form__label {
+  text-align: center;
+}
+
+.product-form__quantity {
+  justify-content: center;
+  display: contents;
+}
