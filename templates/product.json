@@ -222,7 +222,9 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1"
       ],
       "custom_css": [
-
+        ".product-form__label-container {justify-content: center;}",
+        ".color-swatches-container {justify-content: center;}",
+        ".product-form__input .select {max-width: 100rem;}"
       ],
       "settings": {
         "display_id": false,
