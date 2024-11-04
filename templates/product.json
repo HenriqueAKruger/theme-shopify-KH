@@ -48,6 +48,32 @@
             "margin_bottom": 15
           }
         },
+        "sizing_chart_Vw9LKW": {
+          "type": "sizing_chart",
+          "settings": {
+            "test_mode": false,
+            "append": "option_2_under_container",
+            "button_label": "Size Guide",
+            "button_icon": "straighten",
+            "button_filled_icon": false,
+            "text_size": 17,
+            "button_alignment": "start",
+            "button_underline": true,
+            "headline": "Old Money Suede Loafers Size Guide",
+            "heading_size": "h3",
+            "close_button_style": "minimalistic",
+            "color_scheme": "background-1",
+            "table_header_content": "Size EU, Size UK, Foot Length",
+            "table_header_color_scheme": "accent-1",
+            "table_content": "<p>39, 6, 25.5cm / 10 Inches</p><p>40, 7, 26cm / 10.2 Inches</p><p>41, 8, 27cm / 10.6 Inches</p><p>42, 10, 27.5cm / 10.8 Inches</p><p>43, 11, 28cm / 11 Inches</p><p>44, 12, 29cm / 11.4 Inches</p><p>45, 13, 29.5cm / 11.6 Inches</p><p>46, 14, 30cm / 11.8 Inches</p><p>47, 15, 31cm / 12.2 Inches</p><p>48, 16, 32cm / 12.6 Inches</p>",
+            "caption_text": "<p>Our Shoes & Loafers are true to size. Keep in mind that loafers don't have laces, <strong>so they are made thighter than normal shoes </strong>We recommend<strong> going up 0.5 size if you normally have half sizes</strong> for a better fit.</p><p>To find your perfect size, please check the<strong> foot length in CM / INCHES provided</strong>. These are 100% accurate with the shoe.</p>",
+            "caption_size": "1.45rem",
+            "caption_color": "#121212",
+            "caption_alignment": "left",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
           "type": "variant_picker",
           "settings": {
@@ -71,32 +97,6 @@
             "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
             "breaks_price_texts": "[price], [price], [price]",
             "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
-        },
-        "sizing_chart_Vw9LKW": {
-          "type": "sizing_chart",
-          "settings": {
-            "test_mode": false,
-            "append": "none",
-            "button_label": "Size Guide",
-            "button_icon": "straighten",
-            "button_filled_icon": false,
-            "text_size": 17,
-            "button_alignment": "start",
-            "button_underline": true,
-            "headline": "Old Money Suede Loafers Size Guide",
-            "heading_size": "h3",
-            "close_button_style": "minimalistic",
-            "color_scheme": "background-1",
-            "table_header_content": "Size EU, Size UK, Foot Length",
-            "table_header_color_scheme": "accent-1",
-            "table_content": "<p>39, 6, 25.5cm / 10 Inches</p><p>40, 7, 26cm / 10.2 Inches</p><p>41, 8, 27cm / 10.6 Inches</p><p>42, 10, 27.5cm / 10.8 Inches</p><p>43, 11, 28cm / 11 Inches</p><p>44, 12, 29cm / 11.4 Inches</p><p>45, 13, 29.5cm / 11.6 Inches</p><p>46, 14, 30cm / 11.8 Inches</p><p>47, 15, 31cm / 12.2 Inches</p><p>48, 16, 32cm / 12.6 Inches</p>",
-            "caption_text": "<p>Our Shoes & Loafers are true to size. Keep in mind that loafers don't have laces, <strong>so they are made thighter than normal shoes </strong>We recommend<strong> going up 0.5 size if you normally have half sizes</strong> for a better fit.</p><p>To find your perfect size, please check the<strong> foot length in CM / INCHES provided</strong>. These are 100% accurate with the shoe.</p>",
-            "caption_size": "1.45rem",
-            "caption_color": "#121212",
-            "caption_alignment": "left",
             "margin_top": 15,
             "margin_bottom": 15
           }
@@ -330,8 +330,8 @@
         "trustpilot_stars_98wqMg",
         "title",
         "price",
-        "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "sizing_chart_Vw9LKW",
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "urgency_KQXAQd",
         "buy_buttons",
