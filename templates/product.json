@@ -167,7 +167,7 @@
             "urgency": "Buy 2 Get Any Other FREE",
             "color_scheme": "accent-1",
             "margin_top": 15,
-            "margin_bottom": 6
+            "margin_bottom": 15
           }
         },
         "buy_buttons": {
@@ -186,7 +186,7 @@
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
             "margin_top": 0,
-            "margin_bottom": 24
+            "margin_bottom": 0
           }
         },
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
@@ -221,10 +221,20 @@
             "mobile_transparent_bg": false
           }
         },
-        "description": {
-          "type": "description",
+        "estimated_shipping_HNzHg3": {
+          "type": "estimated_shipping",
           "settings": {
-            "margin_top": 24,
+            "icon": "local_shipping",
+            "filled_icon": false,
+            "icon_size": "medium",
+            "icon_alignment": "top",
+            "message": "<p>Ships by <strong>[start_date]</strong></p>",
+            "min_shipping_days": 3,
+            "max_shipping_days": 15,
+            "date_format": "day_mm_dd",
+            "days_labels": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+            "months_labels": "January, February, March, April, May, June, July, August, September, October, November, December",
+            "margin_top": 12,
             "margin_bottom": 24
           }
         },
@@ -255,7 +265,7 @@
         "urgency_KQXAQd",
         "buy_buttons",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
-        "description",
+        "estimated_shipping_HNzHg3",
         "de158e68-5d0d-4819-a625-e2dabdff87d1"
       ],
       "custom_css": [
