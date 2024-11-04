@@ -225,7 +225,8 @@
         ".product-form__label-container {justify-content: center;}",
         ".color-swatches-container {justify-content: center;}",
         ".product-form__input .select {max-width: 100rem;}",
-        ".quantity__label {text-align: center;}"
+        ".quantity__label {text-align: center;}",
+        ".product__media-wrapper {margin-bottom: 10px;}"
       ],
       "settings": {
         "display_id": false,
