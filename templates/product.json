@@ -249,13 +249,13 @@
         "complementary_qY8chE": {
           "type": "complementary",
           "settings": {
-            "block_heading": "Pairs well with",
+            "block_heading": "Customers also bought",
             "make_collapsible_row": false,
             "icon": "price_tag",
             "product_list_limit": 10,
-            "products_per_page": 3,
-            "pagination_style": "counter",
-            "image_ratio": "square",
+            "products_per_page": 1,
+            "pagination_style": "dots",
+            "image_ratio": "portrait",
             "enable_quick_add": true,
             "margin_top": 15,
             "margin_bottom": 15
