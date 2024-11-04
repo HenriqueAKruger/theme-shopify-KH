@@ -293,22 +293,6 @@
             "margin_bottom": 0
           }
         },
-        "collapsible_tab_bGcAWt": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Sizing",
-            "heading_size": "large",
-            "icon": "",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "open": false,
-            "content": "<p>Our Shoes & Loafers are true to size but may run slightly small. Loafers fit tighter since they lack laces. If unsure about your size, we recommend going one size up for loafers for the perfect fit. For half sizes, consider going up by 0.5 for better comfort.</p>",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
-          }
-        },
         "collapsible_tab_PxLdbD": {
           "type": "collapsible_tab",
           "settings": {
@@ -341,7 +325,6 @@
         "complementary_qY8chE",
         "collapsible_tab_BGUQTg",
         "collapsible_tab_Jc8Bk6",
-        "collapsible_tab_bGcAWt",
         "collapsible_tab_PxLdbD"
       ],
       "custom_css": [
