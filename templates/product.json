@@ -616,7 +616,7 @@
         "column_QifPN3": {
           "type": "column",
           "settings": {
-            "star_color": "#00b67a",
+            "star_color": "#005f56",
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#fff",
             "stars_rating": 5,
@@ -628,7 +628,7 @@
         "column_XrNK7H": {
           "type": "column",
           "settings": {
-            "star_color": "#00b67a",
+            "star_color": "#005f56",
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#fff",
             "stars_rating": 5,
