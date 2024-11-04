@@ -75,6 +75,32 @@
             "margin_bottom": 15
           }
         },
+        "sizing_chart_Vw9LKW": {
+          "type": "sizing_chart",
+          "settings": {
+            "test_mode": false,
+            "append": "none",
+            "button_label": "Size Guide",
+            "button_icon": "straighten",
+            "button_filled_icon": false,
+            "text_size": 17,
+            "button_alignment": "start",
+            "button_underline": true,
+            "headline": "Sizing Chart",
+            "heading_size": "h3",
+            "close_button_style": "minimalistic",
+            "color_scheme": "background-1",
+            "table_header_content": "Size, Chest, Length, Shoulder",
+            "table_header_color_scheme": "inverse",
+            "table_content": "<p>S, 95cm, 61cm, 44cm</p><p>M, 102cm, 66cm, 46cm</p><p>L, 106cm, 71cm, 48cm</p><p>XL, 111cm, 74cm, 51cm</p>",
+            "caption_text": "<p>Give your customers further information about choosing the correct size.</p>",
+            "caption_size": "1.45rem",
+            "caption_color": "#121212",
+            "caption_alignment": "left",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
           "type": "quantity_selector",
           "settings": {
@@ -215,6 +241,7 @@
         "title",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "sizing_chart_Vw9LKW",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
