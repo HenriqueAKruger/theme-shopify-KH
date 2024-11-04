@@ -530,7 +530,7 @@
         "type": "loop",
         "drag": "free",
         "autoplay": true,
-        "autoplay_speed": 1.5,
+        "autoplay_speed": 2,
         "center_mode": false,
         "arrows_color_scheme": "inverse",
         "transparent_arrows": false,
