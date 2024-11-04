@@ -227,7 +227,7 @@
             "icon": "local_shipping",
             "filled_icon": false,
             "icon_size": "medium",
-            "icon_alignment": "top",
+            "icon_alignment": "middle",
             "message": "<p>Ships by <strong>[start_date]</strong></p>",
             "min_shipping_days": 2,
             "max_shipping_days": 15,
