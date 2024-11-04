@@ -351,7 +351,8 @@
         ".quantity__label {text-align: center;}",
         ".product__media-wrapper {margin-bottom: 10px;}",
         ".estimated-shipping {justify-content: center;}",
-        ".complementary-products__container h2 {font-size: 25px;}"
+        ".complementary-products__container h2 {font-size: 25px;}",
+        ".product-form__input {max-width: 100rem;}"
       ],
       "settings": {
         "display_id": false,
