@@ -246,20 +246,19 @@
             "margin_bottom": 0
           }
         },
-        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
-          "type": "collapsible_tab",
+        "complementary_qY8chE": {
+          "type": "complementary",
           "settings": {
-            "heading": "Collapsible row",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "open": false,
-            "content": "",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true,
+            "margin_top": 15,
+            "margin_bottom": 15
           }
         }
       },
@@ -275,7 +274,7 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "estimated_shipping_HNzHg3",
         "payment_badges_pxcQyy",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "complementary_qY8chE"
       ],
       "custom_css": [
         ".product-form__label-container {justify-content: center;}",
