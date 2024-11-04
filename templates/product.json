@@ -92,7 +92,7 @@
             "color_scheme": "background-1",
             "table_header_content": "Size EU, Size UK, Foot Length",
             "table_header_color_scheme": "inverse",
-            "table_content": "<p>39, 6, 25.5cm / 10 Inches</p><p>40, 7, 25.5cm / 10 Inches</p><p>41, 8, 25.5cm / 10 Inches</p><p>41, 9, 25.5cm / 10 Inches</p><p>42, 10, 25.5cm / 10 Inches</p><p>43, 11, 25.5cm / 10 Inches</p><p>44, 12, 25.5cm / 10 Inches</p><p>45, 13, 25.5cm / 10 Inches</p><p>46, 14, 25.5cm / 10 Inches</p><p>47, 15, 25.5cm / 10 Inches</p><p>48, 16, 25.5cm / 10 Inches</p>",
+            "table_content": "<p>39, 6, 25.5cm / 10 Inches</p><p>40, 7, 26cm / 10.2 Inches</p><p>41, 8, 27cm / 10.6 Inches</p><p>42, 10, 27.5cm / 10.8 Inches</p><p>43, 11, 28cm / 11 Inches</p><p>44, 12, 29cm / 11.4 Inches</p><p>45, 13, 29.5cm / 11.6 Inches</p><p>46, 14, 30cm / 11.8 Inches</p><p>47, 15, 31cm / 12.2 Inches</p><p>48, 16, 32cm / 12.6 Inches</p>",
             "caption_text": "<p>Give your customers further information about choosing the correct size.</p>",
             "caption_size": "1.45rem",
             "caption_color": "#121212",
