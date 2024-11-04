@@ -282,7 +282,8 @@
         ".product-form__input .select {max-width: 100rem;}",
         ".quantity__label {text-align: center;}",
         ".product__media-wrapper {margin-bottom: 10px;}",
-        ".estimated-shipping {justify-content: center;}"
+        ".estimated-shipping {justify-content: center;}",
+        ".complementary-products__container h2 {font-size: 25px;}"
       ],
       "settings": {
         "display_id": false,
