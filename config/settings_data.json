@@ -354,7 +354,7 @@
               "price_size": "1.4",
               "update_prices": false,
               "hide_compare_price": false,
-              "show_variant_picker": false,
+              "show_variant_picker": true,
               "container_title": "PEOPLE ALSO BOUGHT",
               "container_title_position": "outside",
               "container_title_mobile_text_size": 20,
