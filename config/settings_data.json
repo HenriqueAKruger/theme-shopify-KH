@@ -17,6 +17,7 @@
     "secondary_logo": "shopify://shop_images/GAMERJOY_14.png",
     "logo_width": 200,
     "mobile_logo_width": 160,
+    "favicon": "shopify://shop_images/005f56.png",
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#005f56",
     "gradient_accent_1": "",
