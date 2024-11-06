@@ -272,7 +272,7 @@
             "type": "progress_bar",
             "settings": {
               "goal_type": "subtotal",
-              "goal": 70,
+              "goal": 75,
               "progress_message": "Spend [amount] more and get free shipping!",
               "success_message": "Congrats! You get FREE shipping!",
               "icon": "local_shipping",
