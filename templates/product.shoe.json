@@ -228,7 +228,7 @@
             "filled_icon": false,
             "icon_size": "medium",
             "icon_alignment": "middle",
-            "message": "<p>Ships by <strong>[start_date]</strong></p>",
+            "message": "<p>Fast shipping in Europe, Ships by: <strong>[start_date]</strong></p>",
             "min_shipping_days": 2,
             "max_shipping_days": 15,
             "date_format": "day_dd_mm",
