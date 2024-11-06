@@ -295,7 +295,7 @@
               "price_color": "accent-1",
               "compare_price_color": "text",
               "display_single_item_prices": true,
-              "enable_savings": true,
+              "enable_savings": false,
               "savings_text": "(You save [amount])",
               "savings_color": "text",
               "quantity_font_size": 14,
@@ -446,7 +446,7 @@
           "68fdc0a0-cd7c-40b9-97b3-a76eb7917a47": {
             "type": "payment_badges",
             "settings": {
-              "enabled_payment_types": "",
+              "enabled_payment_types": "visa, master, paypal, shopify_pay, diners_club, google_pay, apple_pay",
               "margin_top": 12,
               "margin_bottom": 12
             }
