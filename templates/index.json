@@ -78,44 +78,6 @@
         "padding_bottom": 50
       }
     },
-    "featured_collection_AEDyig": {
-      "type": "featured-collection",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Best Selling",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "color_scheme": "background-1",
-        "collection": "best-sellers",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "stretch_cards": true,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "cards_color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "badges": "regular",
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff"
-      }
-    },
     "collection_list_ea9aWJ": {
       "type": "collection-list",
       "blocks": {
@@ -158,7 +120,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Collections",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -168,9 +130,47 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
+      }
+    },
+    "featured_collection_AEDyig": {
+      "type": "featured-collection",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Best Selling",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "color_scheme": "background-1",
+        "collection": "best-sellers",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "stretch_cards": true,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "cards_color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "badges": "regular",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
       }
     },
     "rich_text_xp4YYX": {
@@ -391,8 +391,8 @@
   },
   "order": [
     "slideshow_hero_drrdyY",
-    "featured_collection_AEDyig",
     "collection_list_ea9aWJ",
+    "featured_collection_AEDyig",
     "rich_text_xp4YYX",
     "image_slider_YEptqm",
     "rich_text_F9JGBQ"
