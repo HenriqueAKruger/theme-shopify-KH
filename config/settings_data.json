@@ -272,7 +272,7 @@
             "type": "progress_bar",
             "settings": {
               "goal_type": "subtotal",
-              "goal": 75,
+              "goal": 10,
               "progress_message": "Spend [amount] more and get free shipping!",
               "success_message": "Congrats! You get FREE shipping!",
               "icon": "local_shipping",
@@ -563,15 +563,12 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "12657775114333427046": {
         "type": "shopify://apps/essential-countdown/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -720,8 +717,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-
-    ]
+    "custom_css": []
   }
 }
