@@ -116,6 +116,63 @@
         "custom_colors_solid_button_text": "#ffffff"
       }
     },
+    "collection_list_ea9aWJ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xhWtNG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "loafers",
+            "custom_title": ""
+          }
+        },
+        "featured_collection_JwCrtd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cashmere-collection",
+            "custom_title": ""
+          }
+        },
+        "featured_collection_mMWrDk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tops",
+            "custom_title": ""
+          }
+        },
+        "featured_collection_BwHBKz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottom",
+            "custom_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xhWtNG",
+        "featured_collection_JwCrtd",
+        "featured_collection_mMWrDk",
+        "featured_collection_BwHBKz"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Collections",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "rich_text_xp4YYX": {
       "type": "rich-text",
       "blocks": {
@@ -335,6 +392,7 @@
   "order": [
     "slideshow_hero_drrdyY",
     "featured_collection_AEDyig",
+    "collection_list_ea9aWJ",
     "rich_text_xp4YYX",
     "image_slider_YEptqm",
     "rich_text_F9JGBQ"
